@@ -53,3 +53,12 @@ if __name__ == '__main__':
         s.append(random.randint(0, 10000))
     EvenSum(s)
     MaxStr()
+
+    # 2 задание
+    i = 0
+    ['much','c','w'][i]
+
+    # 3 задание
+    x = [0xf or _ in 'abc']
+    # Питон не обрабатывает часть после 0xf, поэтому и результат [15]
+
